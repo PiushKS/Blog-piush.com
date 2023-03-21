@@ -1,8 +1,8 @@
 ---
-title: "1. Introduction to MongoDB (Complete MongoDB Tutorial for beginners - 2023) : Part 1"
+title: "Introduction to MongoDB (Complete MongoDB Tutorial for beginners - 2023) : Part 1"
 datePublished: Tue Mar 21 2023 20:25:56 GMT+0000 (Coordinated Universal Time)
 cuid: clfiph0wr000709jqeujzhwdg
-slug: 1-introduction-to-mongodb-complete-mongodb-tutorial-for-beginners-2023-part-1
+slug: introduction-to-mongodb-complete-mongodb-tutorial-for-beginners-2023-part-1
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1670483322066/yWl0tY35H.png
 tags: mongodb
 
